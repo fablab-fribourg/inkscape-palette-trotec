@@ -1,0 +1,25 @@
+GIMP Palette
+Name: Trotec
+############################################################
+#
+# By  Jacques Supcik / 31 August 2014 / For Fablab Fribourg
+#
+############################################################
+Columns: 3
+  0   0   0  Black
+255   0   0  Red
+  0   0 255 Blue
+ 51 102 153 Desert
+  0 255 255 Cyan
+  0 255   0 Green
+  0 153  51 Grass
+  0 102  51 Forest
+153 153  51 Olive
+153 102  51 Brown
+102  51   0 Walnut
+102   0 102 Plum
+153   0 204 Purple
+255   0 255 Magen
+255 102   0 Orange
+255 255   0 Yellow
+
